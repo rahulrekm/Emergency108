@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Emergency108</string>
+
+    <string name="contentText1">2.Add Emergency widget on lock screen and simultaneously remove other lock screen widgets.</string>
+    <string name="contentText2">1.Make sure to keep GPS always on.</string>
+    <string name="settingwidget">
+        How to add widgets? \n--
+        Turn off the display of your smartphone or tablet.\n--
+        Switch it on again to view the lock screen.\n--
+        Once you\'re there, swipe left or right.\n--
+        When the \'+\' option appears, tap on it.\n--
+        A list of widgets will be displayed you\'ll be asked to choose one.\n--
+        Add emergency widget to lock screen.\n--
+        And finally remove the default clock widget from lock screen.
+    </string>
+
+</resources>
